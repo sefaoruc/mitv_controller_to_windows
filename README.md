@@ -29,7 +29,7 @@ Controller dosyasını çalıştırın kullanıma hazır
 python controller.py
 ```
 
-[![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=IqPLJyR4r8E)
+[![Watch the video](https://img.youtube.com/vi/IqPLJyR4r8E/0.jpg)](https://www.youtube.com/watch?v=IqPLJyR4r8E)
 
 
 Programı Yönetici Olarak Çalıştırın
