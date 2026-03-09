@@ -29,8 +29,10 @@ Controller dosyasını çalıştırın kullanıma hazır
 python controller.py
 ```
 
+[![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=IqPLJyR4r8E)
 
-Programı Yönetici Olarak Çalıştırın Kapatmak İçin Görev Yöneticisini Kullanın
+
+Programı Yönetici Olarak Çalıştırın
 
 
 controller.py Dosyası:
