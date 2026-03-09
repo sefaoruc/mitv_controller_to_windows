@@ -2,7 +2,7 @@ Mi TV Kumandasını Bilgisayarda Kullanmak
 
 Bu yazılım, Xiaomi Mi Stick / Box Bluetooth kumandalarını herhangi bir ek arayüz olmadan doğrudan Windows üzerinde kullanabilmenizi sağlar. 
 Program arka planda çalışır,
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="soruc727t" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Destek (DONATE)" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+[![Bana destek olmak ve gelecek projelere destek için](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/soruc727t)
 
 Çalışma Mantığı
 Program, Windows'un Raw Input API sistemini kullanır. 
