@@ -29,9 +29,7 @@ Controller dosyasını çalıştırın kullanıma hazır
 python controller.py
 ```
 
-<a href="https://buymeacoffee.com/soruc727t" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=soruc727t&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" />
-</a>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/soruc727t)
 
 [![Watch the video](https://img.youtube.com/vi/IqPLJyR4r8E/0.jpg)](https://www.youtube.com/watch?v=IqPLJyR4r8E)
 
