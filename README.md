@@ -2,7 +2,6 @@ Mi TV Kumandasını Bilgisayarda Kullanmak
 
 Bu yazılım, Xiaomi Mi Stick / Box Bluetooth kumandalarını herhangi bir ek arayüz olmadan doğrudan Windows üzerinde kullanabilmenizi sağlar. 
 Program arka planda çalışır,
-[![Bana destek olmak ve gelecek projelere destek için](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/soruc727t)
 
 Çalışma Mantığı
 Program, Windows'un Raw Input API sistemini kullanır. 
@@ -31,6 +30,9 @@ python controller.py
 ```
 
 [![Watch the video](https://img.youtube.com/vi/IqPLJyR4r8E/0.jpg)](https://www.youtube.com/watch?v=IqPLJyR4r8E)
+
+Gelecek projeler için destek olmak istersenziz donate 
+[![Destek Ol](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/soruc727t)
 
 
 Programı Yönetici Olarak Çalıştırın
