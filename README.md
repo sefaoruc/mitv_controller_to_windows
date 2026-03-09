@@ -32,7 +32,7 @@ python controller.py
 [![Watch the video](https://img.youtube.com/vi/IqPLJyR4r8E/0.jpg)](https://www.youtube.com/watch?v=IqPLJyR4r8E)
 
 Gelecek projeler için destek olmak istersen donate 
-[![Destek Ol](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/soruc727t)
+[![Destek Ol](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)]([https://buymeacoffee.com/soruc727t](https://buymeacoffee.com/sefaoruccyber))
 
 
 Programı Yönetici Olarak Çalıştırın
